@@ -1,5 +1,11 @@
+import Body from "./components/Body";
+
 const App = () => {
-  return <div>HELLO MAKKALAE</div>;
+  return (
+    <div>
+      <Body />
+    </div>
+  );
 };
 
 export default App;
